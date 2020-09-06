@@ -1,2 +1,2 @@
 # Gestor-de-Pacientes
-Software create for my client, gold version.
+Software created for my client, gold version.

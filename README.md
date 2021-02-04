@@ -1,2 +1,2 @@
 # Gestor-de-Pacientes[BUGGED VERSION :(]
-Software created for my client, gold version.
+Software created for my client, gold version[BUGGED VERSION :(].
